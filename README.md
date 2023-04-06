@@ -20,7 +20,7 @@ Select Install Now.
 
 Select Activate Plugin if you want the plugin to be active after the installation.
 
-## Displaying the data
+## How to use - displaying the data
 
 Create new page named 'countries' and the boxes with data should appear.
 
