@@ -31,4 +31,4 @@ https://countries.trevorblades.com/graphql
 ```
 ## Tests
 
-Tested on WordPress v6.2 and PHP v8.1
+Tested and developed on WordPress v6.2 and PHP v8.1
